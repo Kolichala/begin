@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 1 text file
 1 text file
 1 text file
+=======
+>>>>>>> parent of d30952e (2 file commit)
 1 text file
